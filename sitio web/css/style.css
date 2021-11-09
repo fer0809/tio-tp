@@ -231,7 +231,7 @@ thead {
 }
 
 .article-container {
-  background-color: #ffffff;
+  background-color: rgb(66, 65, 65) ;
 }
 .article-box {
   font-size: large;
@@ -250,3 +250,4 @@ iframe {
 .show {
   display: block;
 }
+
