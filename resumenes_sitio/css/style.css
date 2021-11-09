@@ -30,9 +30,15 @@
     flex-direction: column;
     flex-wrap: wrap;
   }
-  .article-box {
+  .article-box{
     margin: 40px 400px;
   }
+
+  .article-box p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+  }
+
   #user-sign {
     width: 100%;
     height: auto;
@@ -225,7 +231,7 @@ thead {
 }
 
 .article-container {
-  background-color: #ffffff;
+  background-color: rgb(66, 65, 65) ;
 }
 .article-box {
   font-size: large;
@@ -244,3 +250,4 @@ iframe {
 .show {
   display: block;
 }
+
