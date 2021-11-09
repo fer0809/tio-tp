@@ -112,6 +112,11 @@ i {
 .logo {
   justify-content: center;
 }
+.logo img {
+  height: auto;
+  width: 40%;
+}
+
 
 /* NAV BAR */
 .nav {
