@@ -1,0 +1,1 @@
+Se debe evitar usar la rama main directamente para no tener tropiezos entre programadores y perder la coordinacion. Lo mejor es trabajar en una rama paralela y finalmente mergearlo a main
