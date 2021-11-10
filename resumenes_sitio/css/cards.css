@@ -1,0 +1,21 @@
+.main-cards, .content-cards {
+    display: flex;
+}
+
+.content-cards {
+    margin: 20px 0;
+    padding-top: 40px;
+    background-color: #f56e02;
+    justify-content: space-evenly;
+
+}
+
+.main-cards {
+    margin: 10px;
+  }
+
+.cards {
+    border: 2px solid black;
+    padding: 50px;
+    margin: 40px;
+}
